@@ -1,7 +1,7 @@
 public class Fichier{
-    public static void main( strings []args)
+    public static void main( String[] args)
     {
-        system.out.println("Hello");
+        System.out.println("Hello");
 
         Candidat A = new Candidat();
         Candidat B =new Candidat();
