@@ -4,4 +4,9 @@ public class Candidat
     {
         System.out.println("Je suis le candidat :" + this);
     }
+    //Public Double Allons()
+    //{
+    //    return 2 ;
+    //}
+        
 }
