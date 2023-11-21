@@ -12,3 +12,5 @@ Pour compiler du code java
 -telecharger puis installer
 -copier le chemin d'accès du module Java téléchergé
 -l'inserer dans dans léenvireonement de developpement
+
+#La notion de package
