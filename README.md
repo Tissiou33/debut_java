@@ -14,3 +14,6 @@ Pour compiler du code java
 -l'inserer dans dans léenvireonement de developpement
 
 #La notion de package
+
+#encapsulation
+...
